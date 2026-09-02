@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hemant-netizen/DSA/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/hemant-netizen/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hemant-netizen/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/hemant-netizen/DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/hemant-netizen/DSA/tree/master/0202-happy-number) |
+| [0560-subarray-sum-equals-k](https://github.com/hemant-netizen/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/hemant-netizen/DSA/tree/master/0202-happy-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/hemant-netizen/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
