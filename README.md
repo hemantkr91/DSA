@@ -25,6 +25,7 @@
 | [0344-reverse-string](https://github.com/hemant-netizen/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/hemant-netizen/DSA/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/hemant-netizen/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hemant-netizen/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/hemant-netizen/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String
 |  |
@@ -47,6 +48,7 @@
 | [0141-linked-list-cycle](https://github.com/hemant-netizen/DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/hemant-netizen/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/hemant-netizen/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hemant-netizen/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/hemant-netizen/DSA/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hemant-netizen/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
