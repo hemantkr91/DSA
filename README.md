@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hemant-netizen/DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/hemant-netizen/DSA/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/hemant-netizen/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/hemant-netizen/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -13,6 +14,7 @@
 | [0001-two-sum](https://github.com/hemant-netizen/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/hemant-netizen/DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/hemant-netizen/DSA/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/hemant-netizen/DSA/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/hemant-netizen/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/hemant-netizen/DSA/tree/master/0234-palindrome-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/hemant-netizen/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
