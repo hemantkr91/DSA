@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/hemant-netizen/DSA/tree/master/0001-two-sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hemant-netizen/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/hemant-netizen/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/hemant-netizen/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/hemant-netizen/DSA/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/hemant-netizen/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/hemant-netizen/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -66,12 +67,14 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hemant-netizen/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/hemant-netizen/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hemant-netizen/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/hemant-netizen/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/hemant-netizen/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/hemant-netizen/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -94,4 +97,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/hemant-netizen/DSA/tree/master/0217-contains-duplicate) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hemant-netizen/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
