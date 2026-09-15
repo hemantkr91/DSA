@@ -12,6 +12,7 @@
 | [0219-contains-duplicate-ii](https://github.com/hemant-netizen/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/hemant-netizen/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/hemant-netizen/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/hemant-netizen/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,4 +105,5 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hemant-netizen/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/hemant-netizen/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/hemant-netizen/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
