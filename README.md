@@ -13,6 +13,7 @@
 | [0287-find-the-duplicate-number](https://github.com/hemant-netizen/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/hemant-netizen/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/hemant-netizen/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/hemant-netizen/DSA/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/hemant-netizen/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hemant-netizen/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/hemant-netizen/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/hemant-netizen/DSA/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/hemant-netizen/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/hemant-netizen/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/hemant-netizen/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/hemant-netizen/DSA/tree/master/0904-fruit-into-baskets) |
 ## Rolling Hash
 |  |
 | ------- |
