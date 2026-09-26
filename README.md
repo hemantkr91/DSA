@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hemant-netizen/DSA/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/hemant-netizen/DSA/tree/master/0056-merge-intervals) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hemant-netizen/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/hemant-netizen/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/hemant-netizen/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -110,6 +111,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/hemant-netizen/DSA/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/hemant-netizen/DSA/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/hemant-netizen/DSA/tree/master/0187-repeated-dna-sequences) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/hemant-netizen/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
