@@ -17,6 +17,7 @@
 | [0904-fruit-into-baskets](https://github.com/hemant-netizen/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hemant-netizen/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/hemant-netizen/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1470-shuffle-the-array](https://github.com/hemant-netizen/DSA/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
