@@ -51,6 +51,7 @@
 | [0187-repeated-dna-sequences](https://github.com/hemant-netizen/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/hemant-netizen/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/hemant-netizen/DSA/tree/master/0392-is-subsequence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hemant-netizen/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/hemant-netizen/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/hemant-netizen/DSA/tree/master/0234-palindrome-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hemant-netizen/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hemant-netizen/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -143,4 +145,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/hemant-netizen/DSA/tree/master/0056-merge-intervals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hemant-netizen/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
