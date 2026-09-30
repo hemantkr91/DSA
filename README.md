@@ -16,6 +16,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/hemant-netizen/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/hemant-netizen/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hemant-netizen/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/hemant-netizen/DSA/tree/master/0986-interval-list-intersections) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/hemant-netizen/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1470-shuffle-the-array](https://github.com/hemant-netizen/DSA/tree/master/1470-shuffle-the-array) |
 ## Hash Table
@@ -42,6 +43,7 @@
 | [0344-reverse-string](https://github.com/hemant-netizen/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/hemant-netizen/DSA/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/hemant-netizen/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/hemant-netizen/DSA/tree/master/0986-interval-list-intersections) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hemant-netizen/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/hemant-netizen/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String
@@ -150,4 +152,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hemant-netizen/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/hemant-netizen/DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
