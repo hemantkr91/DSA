@@ -19,6 +19,7 @@
 | [0986-interval-list-intersections](https://github.com/hemant-netizen/DSA/tree/master/0986-interval-list-intersections) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/hemant-netizen/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1470-shuffle-the-array](https://github.com/hemant-netizen/DSA/tree/master/1470-shuffle-the-array) |
+| [3169-count-days-without-meetings](https://github.com/hemant-netizen/DSA/tree/master/3169-count-days-without-meetings) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/hemant-netizen/DSA/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/hemant-netizen/DSA/tree/master/0217-contains-duplicate) |
+| [3169-count-days-without-meetings](https://github.com/hemant-netizen/DSA/tree/master/3169-count-days-without-meetings) |
 ## Sliding Window
 |  |
 | ------- |
