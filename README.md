@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/hemant-netizen/DSA/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/hemant-netizen/DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/hemant-netizen/DSA/tree/master/0057-insert-interval) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hemant-netizen/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/hemant-netizen/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/hemant-netizen/DSA/tree/master/0209-minimum-size-subarray-sum) |
